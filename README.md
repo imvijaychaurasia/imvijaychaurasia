@@ -35,7 +35,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://imvijaychaurasia.github.io/)**
+To view a live example, **[click here](https://imvijaychaurasia.com/)**
 
 # Clone and Use 📋
 
