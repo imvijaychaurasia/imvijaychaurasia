@@ -27,7 +27,7 @@ const greeting = {
 
 resumeLink:
     "https://drive.google.com/file/d/1kIm7OgH5wOfbcdJim7GnOrcb7tXwycPq/view?usp=sharing",
-  portfolio_repository: "https://github.com/imvijaychaurasia/masterPortfolio",
+  portfolio_repository: "https://github.com/imvijaychaurasia/",
   githubProfile: "https://github.com/imvijaychaurasia",
 };
 
